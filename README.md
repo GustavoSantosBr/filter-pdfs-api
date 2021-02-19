@@ -23,7 +23,7 @@ retorno.
 
 - Navegue até a pasta do projeto utilizando:
   ```bash
-  > cd filter-pdfs-api
+  > cd cd {seudiretorio}
   ```
 
 - Em seguida, execute o comando abaixo para dar início ao contêiner do projeto:
